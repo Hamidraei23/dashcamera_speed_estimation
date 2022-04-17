@@ -12,3 +12,6 @@ I used opencv and tensorflow package in this project.
 
 
 # The Algorithm I used in this Project is described as below
+
+you can read it in This PDF:
+https://drive.google.com/file/d/1Txvm2FJpur2XwP0gzlI5dPRU_umfeBDH/view?usp=sharing
